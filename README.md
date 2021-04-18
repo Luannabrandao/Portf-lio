@@ -48,4 +48,6 @@ Fonte utilizada: 'Source Sans Pro', sans-serif;
 
 
 
-[desktop]
+[desktop]Paginadesk.png
+
+[mobile]Paginacelular.png
