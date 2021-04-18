@@ -48,6 +48,5 @@ Fonte utilizada: 'Source Sans Pro', sans-serif;
 
 
 
-[desktop]Paginadesk.png
+![Paginadesk](https://user-images.githubusercontent.com/81788948/115162138-2c9df080-a078-11eb-89d0-f08e777b01ae.png)
 
-[mobile]Paginacelular.png
