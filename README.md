@@ -1,6 +1,14 @@
 # Portf-lio
 Meu Portfólio
 
+
+### Nesse exercício utilizei :
+
+* HTML básico
+
+* CSS básico
+
+
 ###  Estrutura 
         - LU.css
 
@@ -47,6 +55,7 @@ Fonte utilizada: 'Source Sans Pro', sans-serif;
        -Preto:#050505;
 
 
+##  Let's Go Ahead! 🤩
 
 ![Paginadesk](https://user-images.githubusercontent.com/81788948/115162138-2c9df080-a078-11eb-89d0-f08e777b01ae.png)
 
